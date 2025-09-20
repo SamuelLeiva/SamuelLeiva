@@ -46,10 +46,4 @@ I love taking on new challenges—collaborating on open-source or building produ
 
 ---
 
-### ⚡ Fun Fact
-
-When I’m not coding, I’m exploring the latest tech trends, improving my workflow automation skills, or catching up on a good sci-fi book. Always eager to learn and connect!
-
----
-
 *Let’s build something amazing together!*
