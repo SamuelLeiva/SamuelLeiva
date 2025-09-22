@@ -18,6 +18,7 @@ I'm a passionate Full Stack Developer with hands-on experience building APIs and
 
 ### 🔧 Tech Stack
 
+![Code](https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
