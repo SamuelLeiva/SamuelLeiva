@@ -50,8 +50,5 @@ I love taking on new challenges—collaborating on open-source or building produ
 
 ### 📫 Contact
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samuel-leiva-3068b5197/)
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-leiva-3068b5197/)
 ---
-
-*Let’s build something amazing together!*
