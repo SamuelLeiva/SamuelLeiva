@@ -6,13 +6,13 @@
 
 ### 🚀 About Me
 
-I'm a passionate Full Stack Developer with hands-on experience building APIs and robust applications for the banking and delivery sectors. My toolkit includes .NET, Node.js, React, TypeScript, and SQL—blending backend reliability with engaging front-end experiences.
+I'm a Full Stack Developer with hands-on experience building APIs and robust applications for the banking and delivery sectors. My toolkit includes .NET, Node.js, React, TypeScript, and SQL—blending backend with front-end.
 
-- 💻 Developed and maintained RESTful APIs, with a strong focus on code quality and testing (Karate Framework enthusiast!)
-- 🏦 Experience in banking, delivery, and healthcare SaaS solutions
+- 💻 Developed and maintained RESTful APIs, with a strong focus on code quality and testing (Karate Framework)
+- 🏦 Experience in banking and delivery solutions
 - ☁️ Skilled in Azure DevOps: CI/CD pipelines, environment management, and collaborative workflows
 - 🔄 Strong Git/GitHub proficiency for version control and open collaboration
-- 🧑‍💻 Comfortable with both modern and legacy frontend frameworks, including React and Angular
+- 🧑‍💻 Comfortable with modern frameworks like React
 
 ---
 
