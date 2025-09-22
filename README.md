@@ -12,7 +12,7 @@ I'm a Full Stack Developer with hands-on experience building APIs and robust app
 - 🏦 Experience in banking and delivery solutions
 - ☁️ Skilled in Azure DevOps: CI/CD pipelines, environment management, and collaborative workflows
 - 🔄 Strong Git/GitHub proficiency for version control and open collaboration
-- 🧑‍💻 Comfortable with modern frameworks like React
+- 🧑‍💻 Comfortable with modern frameworks like React and .NET
 
 ---
 
