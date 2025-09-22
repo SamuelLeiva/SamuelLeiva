@@ -27,8 +27,10 @@ I'm a passionate Full Stack Developer with hands-on experience building APIs and
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -51,7 +53,7 @@ I love taking on new challenges—collaborating on open-source or building produ
 
 ---
 
-### 📫 Connect with Me
+### 📫 Contact
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samuel-leiva-3068b5197/)
 
