@@ -40,11 +40,9 @@ I'm a Full Stack Developer with hands-on experience building APIs and robust app
 
 - [**food-pos-react**](https://github.com/SamuelLeiva/food-pos-react): Modern, responsive Point of Sale frontend for food businesses
 - [**food-pos-netcore**](https://github.com/SamuelLeiva/food-pos-netcore): Scalable, secure .NET backend for food POS systems
-- **ClinicApp**: Healthcare management app (ask for a demo!)
-- **clinic-hogar-server-ts**: TypeScript server for clinic management
-- **clinic-hogar-client-ts**: TypeScript client for clinic management
-
-I love taking on new challenges—collaborating on open-source or building products that make a difference!
+- [**ClinicApp**](https://github.com/SamuelLeiva/ClinicApp): Appointments management using microservices' architecture
+- [**clinic-hogar-server-ts**](https://github.com/SamuelLeiva/clinica-hogar-server-ts): TypeScript server for clinic management
+- [**clinic-hogar-client-ts**](https://github.com/SamuelLeiva/clinica-hogar-client-ts): TypeScript client for clinic management
 
 ---
 
