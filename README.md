@@ -38,6 +38,7 @@ I'm a Full Stack Developer with hands-on experience building APIs and robust app
 
 ### 🌟 Featured Projects
 
+- [**serverless-clinic-system**](https://github.com/SamuelLeiva/serverless-clinic-system): Asynchronous appointment scheduling and processing service developed with Serverless Framework and Node.js + Typescript.
 - [**food-pos-react**](https://github.com/SamuelLeiva/food-pos-react): Modern, responsive Point of Sale frontend for food businesses
 - [**food-pos-netcore**](https://github.com/SamuelLeiva/food-pos-netcore): Scalable, secure .NET backend for food POS systems
 - [**ClinicApp**](https://github.com/SamuelLeiva/ClinicApp): Appointments management using microservices' architecture
